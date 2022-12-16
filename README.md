@@ -1,5 +1,6 @@
 # openTelemetryTestA2
 For Assignment 2, Question 2 of Brock University's COSC 5P07 Course
+
 Please note that, due to an error, I lost much of the source code for the project and had to recover it from the Jar files I had created. 
 As such, there may be some strangeness/inconsistencies in the source code after going through the compiler and back.
 
