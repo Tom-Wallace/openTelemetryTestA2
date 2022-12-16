@@ -1,0 +1,15 @@
+Stage 1 - Bob-omb Battlefield
+Stage 2 - Whomp's Fortress
+Stage 3 - Jolly Roger Bay
+Stage 4 - Cool, Cool Mountain
+Stage 5 - Big Boo's Haunt
+Stage 6 - Hazy Maze Cave
+Stage 7 - Lethal Lava Land
+Stage 8 - Shifting Sand Land
+Stage 9 - Dire, Dire Docks
+Stage 10 - Snowman's Land
+Stage 11 - Wet-Dry World
+Stage 12 - Tall, Tall Mountain
+Stage 13 - Tiny, Huge Island
+Stage 14 - Tick Tock Clock
+Stage 15 - Rainbow Ride
